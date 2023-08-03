@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "390126515953",
+    "firebase_url": "https://cafe-billing-558b6-default-rtdb.firebaseio.com",
+    "project_id": "cafe-billing-558b6",
+    "storage_bucket": "cafe-billing-558b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390126515953:android:52a9080ab9d58d3b9a5b50",
+        "android_client_info": {
+          "package_name": "com.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390126515953-c82953hia9et2olvblg2gr8iq8ea81pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9L9tD9PEO4er_jkEnTC8Dh3N4dV5spF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390126515953-c82953hia9et2olvblg2gr8iq8ea81pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390126515953:android:393405f54c982fae9a5b50",
+        "android_client_info": {
+          "package_name": "com.vimal.cafe_biling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390126515953-c82953hia9et2olvblg2gr8iq8ea81pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9L9tD9PEO4er_jkEnTC8Dh3N4dV5spF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390126515953-c82953hia9et2olvblg2gr8iq8ea81pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
