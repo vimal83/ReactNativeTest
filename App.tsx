@@ -122,9 +122,11 @@ function App(): JSX.Element {
         </View>
         <View style={styles.btn}>
           <Button title="read all" onPress={readAllfromDB} />
-          <View>
+          <View style={{backgroundColor: '#004563', marginTop: 10}}>
             {array.map(e => (
-              <Text>{e}</Text>
+              <Text style={{color: '#fff', fontSize: 20, fontWeight: 'bold'}}>
+                {e}
+              </Text>
             ))}
           </View>
         </View>
